@@ -150,6 +150,16 @@
       "no": "Skal det vaere tillatt for kommunene aa kreve inn en kommunal skatt paa eiendom",
       "de": "Sollte es den Gemeinden erlaubt sein, eine kommunale Grundsteuer zu erheben",
       "en": "Should it be allowed for the municipalities to collect a municipal tax on property"
+    },
+    "Skal det vaere fritt valg mellom offentlig og privat sykehus": {
+      "no": "Skal det vaere fritt valg mellom offentlig og privat sykehus",
+      "de": "Soll es freie Wahl zwischen ooffentlichen und privaten Krankenhaausern geben",
+      "en": "Should there be a free choice between public and private hospitals"
+    },
+    "Boor det vaere strenge krav for aa faa familiegjenforening": {
+      "no": "Boor det vaere strenge krav for aa faa familiegjenforening",
+      "de": "Sollten es fuur den Familiennachzug strenge Auflagen gelten",
+      "en": "Should there be strict requirements for family reunification"
     }
   }
 }

@@ -286,6 +286,7 @@ namespace ValgomatCSharp
             // Vis alle partiene har like poeng
             if (partipoints.Distinct().Skip(1).Any())
             {
+                var partiSomDuErMestEnigMed = partipoints.Aggregate((x, y) => x.Value > y.Value ? x : y).Key;
                 questiontxtbox.Text = $"{ChosenLanguage("RESULT")} alle";
             } else
             {
@@ -325,14 +326,14 @@ namespace ValgomatCSharp
             }
             File.Close();
 
+
             // Screenshot
-            Bitmap screenshot = new Bitmap(this.Size.Width, this.Size.Height);
+            /*Bitmap screenshot = new Bitmap(this.Size.Width, this.Size.Height);
             Graphics g = Graphics.FromImage(screenshot);
             g.CopyFromScreen(0, 0, 0, 0, screenshot.Size);
             Image img = screenshot;
-            img.Save($"resultat.jpg");
+            img.Save($"resultat.jpg");*/
 
-           
         }
 
         private void closeBtn_Click(object sender, EventArgs e)

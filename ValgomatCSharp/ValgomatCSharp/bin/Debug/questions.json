@@ -44,7 +44,7 @@
         "sp": 2,
         "r": 2,
         "pdk": 2,
-        "ap": 1, 
+        "ap": 1,
         "sv": 2,
         "krf": 2,
         "dmk": 2
@@ -243,8 +243,8 @@
       }
     },
     {
-      s: "Boor retten til abort utvides",
-      p: {
+      "s": "Boor retten til abort utvides",
+      "p": {
         "mdg": 2,
         "v": 2,
         "h": 3,
@@ -259,8 +259,8 @@
       }
     },
     {
-      s: "Boor det vaere ookt skatt paa hooye inntekter",
-      p: {
+      "s": "Boor det vaere ookt skatt paa hooye inntekter",
+      "p": {
         "mdg": 3,
         "v": 3,
         "h": 2,
@@ -275,8 +275,8 @@
       }
     },
     {
-      s: "Boor kommunene ha lov til aa innfoore utslippfrie soner",
-      p: {
+      "s": "Boor kommunene ha lov til aa innfoore utslippfrie soner",
+      "p": {
         "mdg": 2,
         "v": 2,
         "h": 2,
@@ -291,8 +291,8 @@
       }
     },
     {
-      s: "Boor norge forby bruk av hijab i barneskolen",
-      p: {
+      "s": "Boor norge forby bruk av hijab i barneskolen",
+      "p": {
         "mdg": 2,
         "v": 2,
         "h": 2,
@@ -307,8 +307,8 @@
       }
     },
     {
-      s: "Boor vi fortsatt satse paa vindkraft paa land",
-      p: {
+      "s": "Boor vi fortsatt satse paa vindkraft paa land",
+      "p": {
         "mdg": 3,
         "v": 3,
         "h": 3,
