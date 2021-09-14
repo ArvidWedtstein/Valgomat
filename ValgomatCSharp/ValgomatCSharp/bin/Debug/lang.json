@@ -1,0 +1,155 @@
+{
+   "languages": [ "no", "de", "en" ],
+  "translations": {
+    "SETTINGS_TITLE": {
+      "no": "Innstillinger",
+      "de": "Einstellungen",
+      "en": "Settings"
+    },
+    "QUESTION": {
+      "no": "Spoorsmaal",
+      "de": "Frage",
+      "en": "Question"
+    },
+    "RESULT": {
+      "no": "Du er mest enig med",
+      "de": "Sie sind am meisten einig mit",
+      "en": "You mostly agree with"
+    },
+    "CHOSE_LANG": {
+      "no": "Velg Spraak",
+      "de": "Waahle eine Sprache",
+      "en": "Choose a language"
+    },
+    "START_VALGOMAT": {
+      "no": "Start Valgomat",
+      "de": "Starte den Valgomat",
+      "en": "Start Valgomat"
+    },
+    "SAVE": {
+      "no": "Lagre",
+      "de": "Speichern",
+      "en": "Save"
+    },
+    "NEUTRAL": {
+      "no": "Nooytral",
+      "de": "Neutral",
+      "en": "Neutral"
+    },
+    "AGREE": {
+      "no": "Enig",
+      "de": "Zustimmen",
+      "en": "Agree"
+    },
+    "DISAGREE": {
+      "no": "Uenig",
+      "de": "Uneinig",
+      "en": "Disagree"
+    },
+    "Boor norge ha streng flyktning og asylpolitikk": {
+      "no": "Boor norge ha streng flyktning og asylpolitikk",
+      "de": "Sollte Norwegen eine strenge Fluuchtlings- und Asylpolitik haben",
+      "en": "Should norway have a strict refugee and asylum policy"
+    },
+    "Boor vi innfoore flere tiltak for aa redusere bruken av bil": {
+      "no": "Boor vi innfoore flere tiltak for aa redusere bruken av bil",
+      "de": "Sollten wir weitere Masssnahmen einfuuhren, um die Autonutzung zu reduzieren",
+      "en": "Should we introduce more measures to reduce the use of cars"
+    },
+    "Boor Norge sooke om medlemskap i EU": {
+      "no": "Boor Norge sooke om medlemskap i EU",
+      "de": "Sollte Norwegen die EU-Mitgliedschaft beantragen",
+      "en": "Should Norway apply for EU membership"
+    },
+    "Boor Norge fortsatt vaere medlem av NATO": {
+      "no": "Boor Norge fortsatt vaere medlem av NATO",
+      "de": "Sollte Norwegen noch NATO-Mitglied sein",
+      "en": "Should Norway still be a member of NATO"
+    },
+    "Boor norge innfoore aktiv doodshjelp": {
+      "no": "Boor norge innfoore aktiv doodshjelp",
+      "de": "Sollte Norwegen aktive Sterbehilfe einführen",
+      "en": "Should Norway introduce active euthanasia"
+    },
+    "Boor nysalg av fossile personbiler fjernes innen 2025": {
+      "no": "Boor nysalg av fossile personbiler fjernes innen 2025",
+      "de": "Sollen neukäufe von fossiler Autos bis 2025 eingestellt werden",
+      "en": "Should new sales of fossil cars be removed by 2025"
+    },
+    "Boor norge fortsette utbyggingen av vannkraft": {
+      "no": "Boor norge fortsette utbyggingen av vannkraft",
+      "de": "Sollte Norwegen die Wasserkraft weiter ausbauen",
+      "en": "Should Norway continue to develop hydropower"
+    },
+    "Boor norge slutte aa lete etter olje": {
+      "no": "Boor norge slutte aa lete etter olje",
+      "de": "Sollte Norwegen aufhören, nach Öl zu suchen",
+      "en": "Should Norway stop looking for oil"
+    },
+    "Boor norge forbli i EOOS": {
+      "no": "Boor norge forbli i EOOS",
+      "de": "Sollte Norwegen in EOOS bleiben",
+      "en": "Should Norway remain in EOOS"
+    },
+    "Boor norge tilatte tre kjoonn": {
+      "no": "Boor norge tilatte tre kjoonn",
+      "de": "Sollte Norwegen drei Geschlechter zulassen",
+      "en": "Should norway allow three genders"
+    },
+    "Boor norge ha utslippsfrie soner i byene": {
+      "no": "Boor norge ha utslippsfrie soner i byene",
+      "de": "Sollte Norwegen emissionsfreie Zonen in den Städten haben",
+      "en": "Should norway have emission-free zones in the cities"
+    },
+    "Boor det vaere straff for aa ha narkotika til eget bruk": {
+      "no": "Boor det vaere straff for aa ha narkotika til eget bruk",
+      "de": "Sollte es eine Strafe für den Besitz von Drogen für den persönlichen Gebrauch geben",
+      "en": "Should there be a penalty for having drugs for personal use"
+    },
+    "Boor norge innfoore karakterer i grunnskolen": {
+      "no": "Boor norge innfoore karakterer i grunnskolen",
+      "de": "Sollte Norwegen Noten in der Grundschule einführen",
+      "en": "Should Norway introduce grades in primary school"
+    },
+    "Boor bompenger fjernes": {
+      "no": "Boor bompenger fjernes",
+      "de": "Sollte der Maut entfernt werden",
+      "en": "Should tolls be removed"
+    },
+    "Boor norge ha en avgift paa arv": {
+      "no": "Boor norge ha en avgift paa arv",
+      "de": "Sollte Norwegen eine Erbschaftssteuer erheben",
+      "en": "Should norway have a tax on inheritance"
+    },
+    "Boor retten til abort utvides": {
+      "no": "Boor retten til abort utvides",
+      "de": "Sollte das Recht auf Abtreibung verlängert werden",
+      "en": "Should the right to abortion be extended"
+    },
+    "Boor det vaere ookt skatt paa hooye inntekter": {
+      "no": "Boor det vaere ookt skatt paa hooye inntekter",
+      "de": "Sollen die Steuern auf hohe Einkommen erhöht werden",
+      "en": "Should there be increased taxes on high incomes"
+    },
+    "Boor kommunene ha lov til aa innfoore utslippfrie soner": {
+      "no": "Boor kommunene ha lov til aa innfoore utslippfrie soner",
+      "de": "Sollen Kommunen emissionsfreie Zonen einführen dürfen",
+      "en": "Should municipalities be allowed to introduce emission-free zones"
+    },
+    "Boor norge forby bruk av hijab i barneskolen": {
+      "no": "Boor norge forby bruk av hijab i barneskolen",
+      "de": "Sollte Norwegen die Verwendung von Hijab in der Grundschule verbieten",
+      "en": "Should Norway ban the use of hijab in primary school"
+    },
+    "Boor vi fortsatt satse paa vindkraft paa land": {
+      "no": "Boor vi fortsatt satse paa vindkraft paa land",
+      "de": "Sollten wir uns noch auf Windkraft an Land konzentrieren",
+      "en": "Should we still focus on wind power on land"
+    },
+    "Skal det vaere tillatt for kommunene aa kreve inn en kommunal skatt paa eiendom": {
+      "no": "Skal det vaere tillatt for kommunene aa kreve inn en kommunal skatt paa eiendom",
+      "de": "Sollte es den Gemeinden erlaubt sein, eine kommunale Grundsteuer zu erheben",
+      "en": "Should it be allowed for the municipalities to collect a municipal tax on property"
+    }
+  }
+}

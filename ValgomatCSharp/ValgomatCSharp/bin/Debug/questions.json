@@ -1,0 +1,374 @@
+// s betyr spørsmål. 
+// p inneholde partiene og deres mening om spørsmålet
+{
+  questions: [
+    {
+      "s": "Boor norge ha streng flyktning og asylpolitikk",
+      "p": {
+        "mdg": 2,
+        "v": 2,
+        "h": 3,
+        "frp": 3,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 3
+      }
+    },
+    {
+      "s": "Boor vi innfoore flere tiltak for aa redusere bruken av bil",
+      "p": {
+        "mdg": 3,
+        "v": 2,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor Norge sooke om medlemskap i EU",
+      "p": {
+        "mdg": 2,
+        "v": 3,
+        "h": 3,
+        "frp": 2,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 1, 
+        "sv": 2,
+        "krf": 2,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor Norge fortsatt vaere medlem av NATO",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 3,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 3
+      }
+    },
+    {
+      "s": "Boor norge innfoore aktiv doodshjelp",
+      "p": {
+        "mdg": 3,
+        "v": 2,
+        "h": 2,
+        "frp": 3,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Boor nysalg av fossile personbiler fjernes innen 2025",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 2,
+        "sp": 3,
+        "r": 3,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 3,
+        "krf": 3,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor norge fortsette utbyggingen av vannkraft",
+      "p": {
+        "mdg": 3,
+        "v": 2,
+        "h": 3,
+        "frp": 3,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 1,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor norge slutte aa lete etter olje",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 3,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 3,
+        "krf": 2,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor norge forbli i EOOS",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 3,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor norge tilatte tre kjoonn",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 3,
+        "pdk": 2,
+        "ap": 1,
+        "sv": 3,
+        "krf": 2,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Boor norge ha utslippsfrie soner i byene",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 2,
+        "sp": 2,
+        "r": 2,
+        "pdk": 3,
+        "ap": 3,
+        "sv": 3,
+        "krf": 3,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Boor det vaere straff for aa ha narkotika til eget bruk",
+      "p": {
+        "mdg": 2,
+        "v": 2,
+        "h": 2,
+        "frp": 3,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Boor norge innfoore karakterer i grunnskolen",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 3,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Boor bompenger fjernes",
+      "p": {
+        "mdg": 2,
+        "v": 2,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 3
+      }
+    },
+    {
+      "s": "Boor norge ha en avgift paa arv",
+      "p": {
+        "mdg": 3,
+        "v": 2,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 3,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 3,
+        "krf": 2,
+        "dmk": 1
+      }
+    },
+    {
+      s: "Boor retten til abort utvides",
+      p: {
+        "mdg": 2,
+        "v": 2,
+        "h": 3,
+        "frp": 1,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      s: "Boor det vaere ookt skatt paa hooye inntekter",
+      p: {
+        "mdg": 3,
+        "v": 3,
+        "h": 2,
+        "frp": 2,
+        "sp": 3,
+        "r": 3,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 3,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      s: "Boor kommunene ha lov til aa innfoore utslippfrie soner",
+      p: {
+        "mdg": 2,
+        "v": 2,
+        "h": 2,
+        "frp": 2,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 2
+      }
+    },
+    {
+      s: "Boor norge forby bruk av hijab i barneskolen",
+      p: {
+        "mdg": 2,
+        "v": 2,
+        "h": 2,
+        "frp": 3,
+        "sp": 2,
+        "r": 2,
+        "pdk": 2,
+        "ap": 2,
+        "sv": 2,
+        "krf": 2,
+        "dmk": 2
+      }
+    },
+    {
+      s: "Boor vi fortsatt satse paa vindkraft paa land",
+      p: {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 2,
+        "sp": 3,
+        "r": 2,
+        "pdk": 2,
+        "ap": 3,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 2
+      }
+    },
+    {
+      "s": "Skal det vaere tillatt for kommunene aa kreve inn en kommunal skatt paa eiendom",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 2,
+        "sp": 3,
+        "r": 3,
+        "pdk": 3,
+        "ap": 3,
+        "sv": 3,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Skal det vaere fritt valg mellom offentlig og privat sykehus",
+      "p": {
+        "mdg": 3,
+        "v": 3,
+        "h": 3,
+        "frp": 3,
+        "sp": 2,
+        "r": 2,
+        "pdk": 1,
+        "ap": 2,
+        "sv": 2,
+        "krf": 3,
+        "dmk": 1
+      }
+    },
+    {
+      "s": "Boor det vaere strenge krav for aa faa familiegjenforening",
+      "p": {
+        "mdg": 2,
+        "v": 2,
+        "h": 3,
+        "frp": 3,
+        "sp": 2,
+        "r": 3,
+        "pdk": 3,
+        "ap": 3,
+        "sv": 2,
+        "krf": 1,
+        "dmk": 3
+      }
+    }
+  ]
+}

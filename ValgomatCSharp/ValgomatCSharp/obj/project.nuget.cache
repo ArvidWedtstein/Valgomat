@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0X9JCLb8iOkVb/MDfUMF2M60qCaWku58audupU5OzSq2Y2WPFcaoIASTRF4se3U4jT1hoFT7XDSLMvMWpA1Egg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArvidWedtstein\\Source\\Repos\\ArvidWedtstein\\Valgomat\\ValgomatCSharp\\ValgomatCSharp\\ValgomatCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArvidWedtstein\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
